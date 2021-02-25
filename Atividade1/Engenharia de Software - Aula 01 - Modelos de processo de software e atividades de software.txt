@@ -1,0 +1,63 @@
+00:00 - 03:30
+
+-Modelos de processo de Software e Atividades de Software
+-Processo de Software é composto de atividades de Software 
+-Por Modelo, entende-se que há diferentes exemplos de um processo pode se organizar
+-Cada empresa, ou grupo de pessoas seguem diferentes modelos
+-Com a evolução, surgiram os Métodos Ágeis
+
+03:31 - 05:56
+
+- O que é software? Softwares são programas de computador e documentação associada. Produtos de software podem ser desenvolvidos para um cliente específico ou para o mercado geral
+-Quais são os atributos de um bom software? Um bom software deve prover a funcionalidade e o desempenho requeridos pelo usuário; além disso, dever ser confiável e fácil de mante e usar
+
+06:20 - 08:46
+
+-O que é engenharia de Software? É uma disciplina de engenharia que se preocupa com todos os aspectos de produção de Software
+-Quais são as principais atividades da engenharia de software? Especificação de software, desenvolvimente de software, viliadação de software e evolução de software
+-Qual a diferença entre engenharia de software e ciência da computação? Ciência da computação foca a teoria e os fundamentos; engenharia de software preocupa-se com o lado prático do desenvolvimento e entrega de softwares úteis
+-Quais são os principais desafios da eng. de soft.? Lidar com o aumento de diversidade, demandas pela diminuição do tempo para entrega e desenvolvimento de software confiável.
+-Quais são os custos da eng. de software? 60% em desenvolvimento; 40% em testes.
+
+08:47 - 10:34
+
+-Melhores técnicas e métodos? Impossível avaliar isso de forma ampla, há apenas o que melhor se adapta àquela situação e cenário
+-Internet ampliou tudo nessa área
+-O que é Processo de Software? Conjunto de todas as atividades relacionadas que levam à produção de um produto de software
+-Pode ser desenvolvido do 0 ou estendidos de outro
+-Usar algo pré-existente é prática comum
+-Atividades fundamentais: Especificação, projeto, implementação, validação, evolução.
+
+10:35 - 15:59
+
+-Principais modelos a tratar do processo de software são: Cascata, Incremental, Orientada a reuso
+-Cascata: Requisitos -> Projeto -> Implementação e Teste -> Integração e Teste -> Operação e Manutenção
+-Incremental: Esboço	|-Especificação	<-> Versão Inicial
+			|-Desenvolvimento <-> Versões Intermediárias
+			|-Validação <-> Versão Final
+-Reuso: Requisitos -> Componentes -> Requitos (alteração) -> Projeto -> Desenvolvimento e integração -> Validação		
+
+16:00 - 17:04
+
+-Elementos básicos: Especificação, desenvolvimento, validação, evolução
+-A forma ou ordem podem alterar
+
+17:05 - 18:15
+
+-Requisitos: Viabilidade -> Elicitação -> Especificão -> Validação
+
+15:16 - 19:44
+
+-Projeto: Requisitos -> Arquitetura / Banco de Dados / Interface / Componentes
+-P.Arquitetura -> P.Interface -> P.Componentes 
+	|->	P.Banco de Dados	<-|
+
+19:45 - 20:53
+
+-Testes: Componentes -> Sistema -> Aceitação
+-Ou Planos de testes para cada fase
+
+20:54 - 22:42
+
+-Evoluir significa avaliar o sistema que eu tenho e propor mudanças, modificar ele e criar um novo sistema
+-
